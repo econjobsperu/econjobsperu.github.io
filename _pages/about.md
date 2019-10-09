@@ -14,3 +14,5 @@ Para mayor información puedes revisar nuestras redes sociales:
 
 
  [Facebook](https://www.facebook.com/Econ-RA-Per%C3%BA-106364190777208/) y  [Twitter](https://twitter.com/econ_ra_peru)
+ 
+ <a class="twitter-timeline" href="https://twitter.com/econ_ra_peru?ref_src=twsrc%5Etfw">Tweets by econ_ra_peru</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
