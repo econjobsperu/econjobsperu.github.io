@@ -16,3 +16,15 @@ Para mayor información puedes revisar nuestras redes sociales:
  [Facebook](https://www.facebook.com/Econ-RA-Per%C3%BA-106364190777208/) y  [Twitter](https://twitter.com/econ_ra_peru)
  
  <a class="twitter-timeline" href="https://twitter.com/econ_ra_peru?ref_src=twsrc%5Etfw">Tweets by econ_ra_peru</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+<!--
+La siguiente parte es para incluir la página de Facebook:
+-->
+
+<!-- Esto configura JavaScript SDK-->
+<div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v4.0"></script>
+
+<!-- Esto incluye el contenido per se -->
+<div class="fb-page" data-href="https://www.facebook.com/Econ-RA-Per%C3%BA-106364190777208/" data-tabs="timeline" data-width="" data-height="" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/Econ-RA-Per%C3%BA-106364190777208/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/Econ-RA-Per%C3%BA-106364190777208/">Econ RA Perú</a></blockquote></div>
+
