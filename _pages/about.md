@@ -26,5 +26,4 @@ La siguiente parte es para incluir la página de Facebook:
 <script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v4.0"></script>
 
 <!-- Esto incluye el contenido per se -->
-<div class="fb-page" data-href="https://www.facebook.com/Econ-RA-Per%C3%BA-106364190777208/" data-tabs="timeline" data-width="" data-height="" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/Econ-RA-Per%C3%BA-106364190777208/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/Econ-RA-Per%C3%BA-106364190777208/">Econ RA Perú</a></blockquote></div>
-
+<div class="fb-page" data-href="https://www.facebook.com/Econ-RA-Per%C3%BA-106364190777208/" data-tabs="timeline" data-width="500" data-height="" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/Econ-RA-Per%C3%BA-106364190777208/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/Econ-RA-Per%C3%BA-106364190777208/">Econ RA Perú</a></blockquote></div>
