@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Haciendo más inclusivo el mercado laboral Peruano"
-excerpt: "Sobre Econ RA Perú"
+excerpt: "Sobre Econ Jobs Perú"
 author_profile: true
 redirect_from: 
   - /about/
